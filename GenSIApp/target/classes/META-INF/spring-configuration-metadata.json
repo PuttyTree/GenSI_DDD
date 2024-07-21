@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "gs.log",
+      "type": "com.roy.gensi.genapp.domain.hisrequest.infrastructure.GsLogConfig",
+      "sourceType": "com.roy.gensi.genapp.domain.hisrequest.infrastructure.GsLogConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "gs.log.trans-log-dir",
+      "type": "java.lang.String",
+      "sourceType": "com.roy.gensi.genapp.domain.hisrequest.infrastructure.GsLogConfig"
+    }
+  ],
+  "hints": []
+}
